@@ -1,0 +1,19 @@
+{
+  "name": "file-upload",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "errorhandler": "^1.4.2",
+    "express": "^4.9.8",
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jshint": "^1.8.5",
+    "nodemon": "^1.2.1"
+  }
+}
